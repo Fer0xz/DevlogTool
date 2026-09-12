@@ -80,6 +80,10 @@ New entries are generated from `template.md`:
 
 Edit `template.md` to change the sections that get generated for every future entry.
 
+## Roadmap
+
+- [ ] Rework this into a proper UI — something quick and easy to use instead of the current terminal prompts
+
 ## Project structure
 
 ```
